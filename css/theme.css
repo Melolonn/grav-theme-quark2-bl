@@ -720,7 +720,7 @@ body.header-light:not(.scrolled) #header .dropmenu > ul > li > a:hover:not(.acti
 }
 .navbar-brand img,
 .navbar-brand svg {
-  height: 28px;
+  height: 60px;
   width: auto;
   display: block;
 }
