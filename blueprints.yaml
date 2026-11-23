@@ -1,8 +1,8 @@
-name: Quark 2
-slug: quark2
+name: Quark 2 BL
+slug: quark2-bl
 type: theme
 version: 1.1.27
-description: The modernized Grav default theme — Blades CSS foundation, Cal.com-inspired aesthetic, with light/dark/auto mode and Font Awesome 7 icons.
+description: The modernized Grav default theme — Blades CSS foundation, Cal.com-inspired aesthetic, with light/dark/auto mode and Font Awesome 7 icons. Modified for BL
 icon: meteor
 author:
   name: Team Grav
